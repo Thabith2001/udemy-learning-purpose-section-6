@@ -1,0 +1,107 @@
+services:
+
+  accounts:
+    build:
+      context: Accounts_service
+      dockerfile: Dockerfile
+    image: "thabith/accounts_service:s4"
+    container_name: "account_ms"
+    ports:
+      - "8081:8081"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - udemyCourse
+    depends_on:
+      - accounts-db
+
+  accounts-db:
+    image: "mysql:latest"
+    container_name: "accounts_db"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: accounts_db
+      MYSQL_USER: accounts
+      MYSQL_PASSWORD: "1234"
+    ports:
+      - "3306:3306"
+    volumes:
+      - accounts_data:/var/lib/mysql
+    networks:
+      - udemyCourse
+
+
+  loans:
+    image: "thabith/loans_service:s4"
+    container_name: "loans_ms"
+    ports:
+      - "8082:8082"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - udemyCourse
+    depends_on:
+      - loans-db
+
+  loans-db:
+    build:
+      context: loans_service
+    image: "mysql:latest"
+    container_name: "loans_db"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: loans_db
+      MYSQL_USER: loans
+      MYSQL_PASSWORD: "1234"
+    ports:
+      - "3307:3306"
+    volumes:
+      - loans_data:/var/lib/mysql
+    networks:
+      - udemyCourse
+
+
+  cards:
+    build:
+      context: cards_services
+    image: "thabith/card_service:s4"
+    container_name: "cards_ms"
+    ports:
+      - "8083:8083"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - udemyCourse
+    depends_on:
+      - cards-db
+
+  cards-db:
+    image: "mysql:latest"
+    container_name: "cards_db"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: cards_db
+      MYSQL_USER: cards
+      MYSQL_PASSWORD: "1234"
+    ports:
+      - "3308:3306"
+    volumes:
+      - cards_data:/var/lib/mysql
+    networks:
+      - udemyCourse
+
+
+networks:
+  udemyCourse:
+    driver: bridge
+
+volumes:
+  accounts_data:
+  loans_data:
+  cards_data:

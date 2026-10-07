@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29e7c57f-b4f7-4514-97ea-22c40ee401e7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="150" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Exception" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Dockerfile" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000207833002" />
+      <entry key="MS500" value="1.0290765518032192" />
+      <entry key="S2" value="1.4129917644791665" />
+      <entry key="S5" value="1.7215032110605664" />
+      <entry key="S10" value="1.977427003438188" />
+      <entry key="S30" value="2.5042375977503073" />
+      <entry key="S60" value="3.355878918875932" />
+      <entry key="M2" value="5.740230165849701" />
+      <entry key="M5" value="11.97887082657307" />
+      <entry key="M10" value="21.57842540237321" />
+      <entry key="M15" value="30.660389184645897" />
+      <entry key="M30" value="57.3819015699509" />
+      <entry key="H1" value="113.7231838890679" />
+      <entry key="H2" value="199.43390783631617" />
+      <entry key="H4" value="287.49234322513837" />
+      <entry key="D1" value="446.94000374775476" />
+      <entry key="W1" value="513.5225031680583" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="8.410174043022973E-165" />
+      <entry key="S2" value="9.576379001363147E-42" />
+      <entry key="S5" value="3.920647128239993E-17" />
+      <entry key="S10" value="6.5366509706869075E-9" />
+      <entry key="S30" value="0.002707405424964004" />
+      <entry key="S60" value="0.11260800369663879" />
+      <entry key="M2" value="1.0517075207301163" />
+      <entry key="M5" value="5.5817915422916355" />
+      <entry key="M10" value="13.209923095008971" />
+      <entry key="M15" value="20.1093043337042" />
+      <entry key="M30" value="35.92801823015987" />
+      <entry key="H1" value="56.186717928813465" />
+      <entry key="H2" value="82.36957015512569" />
+      <entry key="H4" value="113.78906429316706" />
+      <entry key="D1" value="203.91816548483" />
+      <entry key="W1" value="256.80487663112785" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.1045248287523806E-8" />
+      <entry key="MS500" value="0.041200471401263844" />
+      <entry key="S2" value="0.7448129871249497" />
+      <entry key="S5" value="1.3639654296194452" />
+      <entry key="S10" value="1.776673622814596" />
+      <entry key="S30" value="2.432328686304473" />
+      <entry key="S60" value="3.42625209716106" />
+      <entry key="M2" value="6.756196798142564" />
+      <entry key="M5" value="17.515402577056005" />
+      <entry key="M10" value="34.73844052761986" />
+      <entry key="M15" value="50.720378590133045" />
+      <entry key="M30" value="93.26608876218413" />
+      <entry key="H1" value="169.87361042316184" />
+      <entry key="H2" value="281.7751173143876" />
+      <entry key="H4" value="401.2611707647727" />
+      <entry key="D1" value="650.8513551867227" />
+      <entry key="W1" value="770.3260740574898" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3J5W5Zl2iao6fK4iQbZwRdDP2jz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.udemy.executor": "Run",
+    "HTTP Request.generated-requests | #15.executor": "Run",
+    "HTTP Request.generated-requests | #16.executor": "Run",
+    "HTTP Request.generated-requests | #17.executor": "Run",
+    "HTTP Request.generated-requests | #19.executor": "Run",
+    "Maven.Section_6 [clean].executor": "Run",
+    "Maven.Section_6 [compile].executor": "Run",
+    "Maven.Section_6 [package].executor": "Run",
+    "Maven.Section_6 [test].executor": "Run",
+    "Maven.Section_6 [validate].executor": "Run",
+    "Maven.Udemy_course [clean].executor": "Run",
+    "Maven.Udemy_course [compile].executor": "Run",
+    "Maven.Udemy_course [package].executor": "Run",
+    "Maven.Udemy_course [test].executor": "Run",
+    "Maven.Udemy_course [validate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.AccountsServiceApplication.executor": "Run",
+    "Spring Boot.CardsServicesApplication.executor": "Run",
+    "Spring Boot.LoansServiceApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.github.patou.gitmoji.migration-offered": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "javascript.preferred.runtime.type.id": "node",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/thabiththabith/Interview_prep/Microservices_projects/Section_6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.3413793",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="generated-requests | #15" value="STOPPED" />
+              <entry key="generated-requests | #16" value="STOPPED" />
+              <entry key="generated-requests | #17" value="STOPPED" />
+              <entry key="generated-requests | #19" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AccountsServiceApplication">
+    <configuration name="generated-requests | #15" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#15" index="15" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #16" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#16" index="16" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #17" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#17" index="17" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #19" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#19" index="19" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="AccountsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Accounts_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.accounts_service.AccountsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardsServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="cards_services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.cards_services.CardsServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoansServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="loans_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.loans_service.LoansServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.generated-requests | #19" />
+      <item itemvalue="HTTP Request.generated-requests | #17" />
+      <item itemvalue="HTTP Request.generated-requests | #16" />
+      <item itemvalue="HTTP Request.generated-requests | #15" />
+      <item itemvalue="Spring Boot.AccountsServiceApplication" />
+      <item itemvalue="Spring Boot.CardsServicesApplication" />
+      <item itemvalue="Spring Boot.LoansServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #19" />
+        <item itemvalue="HTTP Request.generated-requests | #17" />
+        <item itemvalue="HTTP Request.generated-requests | #16" />
+        <item itemvalue="HTTP Request.generated-requests | #15" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29e7c57f-b4f7-4514-97ea-22c40ee401e7" name="Changes" comment="" />
+      <created>1788951233526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788951233526</updated>
+      <workItem from="1788951234677" duration="18354000" />
+      <workItem from="1789560025205" duration="5641000" />
+      <workItem from="1789642427877" duration="15000" />
+      <workItem from="1789733053725" duration="12409000" />
+      <workItem from="1790845108181" duration="579000" />
+      <workItem from="1790845912416" duration="87000" />
+      <workItem from="1791179426458" duration="3791000" />
+      <workItem from="1791223348693" duration="402000" />
+      <workItem from="1791270925326" duration="2379000" />
+      <workItem from="1791312285832" duration="332000" />
+      <workItem from="1791314356509" duration="1156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

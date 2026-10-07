@@ -1,0 +1,20 @@
+server:
+  port: 8083
+
+
+spring:
+  application:
+    name: cards_services
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/cards_db?createDatabaseIfNotExist=true
+    username: root
+    password: Thabith2001
+
+build:
+  version: "1.0"

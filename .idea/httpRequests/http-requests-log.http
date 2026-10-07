@@ -1,0 +1,68 @@
+GET http://localhost:8081/api/contact-info
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-10-07T005206.200.json
+
+###
+
+GET http://localhost:8081/api/contact-info
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-10-07T004951.200.json
+
+###
+
+GET http://localhost:8083/api/build-info
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-10-07T001038.200.txt
+
+###
+
+GET http://localhost:8083/api/build-info
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-10-07T001029.200.txt
+
+###
+
+GET http://localhost:8083/api/build-info
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-10-05T233630.200.txt
+
+###
+
+GET http://localhost:8083/api/build-info
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+GET http://localhost:8083/api/build-info
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+GET http://localhost:8081/api/build-info
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-10-05T121326.200.json
+
+###
+

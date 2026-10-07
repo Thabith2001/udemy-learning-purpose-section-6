@@ -1,0 +1,17 @@
+server:
+  port: 8082
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/loans_db?createDatabaseIfNotExist=true
+    username: root
+    password: Thabith2001
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+build:
+  version: "1.0"
