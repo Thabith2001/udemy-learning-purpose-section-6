@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e7c57f-b4f7-4514-97ea-22c40ee401e7" name="Changes" comment="" />
+    <list default="true" id="29e7c57f-b4f7-4514-97ea-22c40ee401e7" name="Changes" comment="udemy learning purpose section 6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HttpClientOnboardingState">{
   &quot;isOnboardingCommentShown&quot;: true
 }</component>
@@ -39,61 +42,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000207833002" />
-      <entry key="MS500" value="1.0290765518032192" />
-      <entry key="S2" value="1.4129917644791665" />
-      <entry key="S5" value="1.7215032110605664" />
-      <entry key="S10" value="1.977427003438188" />
-      <entry key="S30" value="2.5042375977503073" />
-      <entry key="S60" value="3.355878918875932" />
-      <entry key="M2" value="5.740230165849701" />
-      <entry key="M5" value="11.97887082657307" />
-      <entry key="M10" value="21.57842540237321" />
-      <entry key="M15" value="30.660389184645897" />
-      <entry key="M30" value="57.3819015699509" />
-      <entry key="H1" value="113.7231838890679" />
-      <entry key="H2" value="199.43390783631617" />
-      <entry key="H4" value="287.49234322513837" />
-      <entry key="D1" value="446.94000374775476" />
-      <entry key="W1" value="513.5225031680583" />
+      <entry key="MS100" value="1.000000000226464" />
+      <entry key="MS500" value="1.0123098121281258" />
+      <entry key="S2" value="1.5142022614686144" />
+      <entry key="S5" value="2.658532523607447" />
+      <entry key="S10" value="4.059430509471989" />
+      <entry key="S30" value="6.168042592971148" />
+      <entry key="S60" value="6.9931757000312595" />
+      <entry key="M2" value="7.471219750312606" />
+      <entry key="M5" value="7.782020659523299" />
+      <entry key="M10" value="7.889899100273435" />
+      <entry key="M15" value="7.9263499228380985" />
+      <entry key="M30" value="7.963049621287594" />
+      <entry key="H1" value="7.984475873472366" />
+      <entry key="H2" value="9.012073825436017" />
+      <entry key="H4" value="28.568996225136587" />
+      <entry key="D1" value="295.97989325706317" />
+      <entry key="W1" value="490.26968828272703" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="8.410174043022973E-165" />
-      <entry key="S2" value="9.576379001363147E-42" />
-      <entry key="S5" value="3.920647128239993E-17" />
-      <entry key="S10" value="6.5366509706869075E-9" />
-      <entry key="S30" value="0.002707405424964004" />
-      <entry key="S60" value="0.11260800369663879" />
-      <entry key="M2" value="1.0517075207301163" />
-      <entry key="M5" value="5.5817915422916355" />
-      <entry key="M10" value="13.209923095008971" />
-      <entry key="M15" value="20.1093043337042" />
-      <entry key="M30" value="35.92801823015987" />
-      <entry key="H1" value="56.186717928813465" />
-      <entry key="H2" value="82.36957015512569" />
-      <entry key="H4" value="113.78906429316706" />
-      <entry key="D1" value="203.91816548483" />
-      <entry key="W1" value="256.80487663112785" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="1.49926159707045E-276" />
+      <entry key="M2" value="3.8375059184933366E-138" />
+      <entry key="M5" value="5.910650020102361E-55" />
+      <entry key="M10" value="4.2986402911150066E-27" />
+      <entry key="M15" value="9.51373223362237E-18" />
+      <entry key="M30" value="2.471213119853986E-8" />
+      <entry key="H1" value="0.0014735746217722394" />
+      <entry key="H2" value="0.42182861231998625" />
+      <entry key="H4" value="8.143013287906564" />
+      <entry key="D1" value="131.3923312694312" />
+      <entry key="W1" value="241.17586936417624" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.1045248287523806E-8" />
-      <entry key="MS500" value="0.041200471401263844" />
-      <entry key="S2" value="0.7448129871249497" />
-      <entry key="S5" value="1.3639654296194452" />
-      <entry key="S10" value="1.776673622814596" />
-      <entry key="S30" value="2.432328686304473" />
-      <entry key="S60" value="3.42625209716106" />
-      <entry key="M2" value="6.756196798142564" />
-      <entry key="M5" value="17.515402577056005" />
-      <entry key="M10" value="34.73844052761986" />
-      <entry key="M15" value="50.720378590133045" />
-      <entry key="M30" value="93.26608876218413" />
-      <entry key="H1" value="169.87361042316184" />
-      <entry key="H2" value="281.7751173143876" />
-      <entry key="H4" value="401.2611707647727" />
-      <entry key="D1" value="650.8513551867227" />
-      <entry key="W1" value="770.3260740574898" />
+      <entry key="MS100" value="0.9726549476295243" />
+      <entry key="MS500" value="1.0066794847304237" />
+      <entry key="S2" value="1.5118517715191873" />
+      <entry key="S5" value="2.656592648422577" />
+      <entry key="S10" value="4.05764039522758" />
+      <entry key="S30" value="6.166942116945335" />
+      <entry key="S60" value="6.992516836494695" />
+      <entry key="M2" value="7.47085785613389" />
+      <entry key="M5" value="7.781867318296479" />
+      <entry key="M10" value="7.8898209276544256" />
+      <entry key="M15" value="7.926297468486081" />
+      <entry key="M30" value="7.9630232477635845" />
+      <entry key="H1" value="7.985935254178245" />
+      <entry key="H2" value="9.433750566043356" />
+      <entry key="H4" value="36.710558004698974" />
+      <entry key="D1" value="427.367833420711" />
+      <entry key="W1" value="731.4443312928694" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -137,6 +140,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.github.patou.gitmoji.migration-offered": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/thabiththabith/Interview_prep/Microservices_projects/Section_6",
@@ -255,11 +259,48 @@
       <workItem from="1791223348693" duration="402000" />
       <workItem from="1791270925326" duration="2379000" />
       <workItem from="1791312285832" duration="332000" />
-      <workItem from="1791314356509" duration="1156000" />
+      <workItem from="1791314356509" duration="1558000" />
     </task>
+    <task id="LOCAL-00001" summary="udemy learning purpose section 6">
+      <option name="closed" value="true" />
+      <created>1791369234147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791369234147</updated>
+    </task>
+    <task id="LOCAL-00002" summary="udemy learning purpose section 6">
+      <option name="closed" value="true" />
+      <created>1791369263882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791369263882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="udemy learning purpose section 6">
+      <option name="closed" value="true" />
+      <created>1791369377598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791369377598</updated>
+    </task>
+    <task id="LOCAL-00004" summary="udemy learning purpose section 6">
+      <option name="closed" value="true" />
+      <created>1791369502862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791369502862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="udemy learning purpose section 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="udemy learning purpose section 6" />
   </component>
 </project>
